@@ -17,5 +17,5 @@ A Python tool to extract structured data (name, email, phone, skills) from resum
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Resume-Parser.git
+   git clone https://github.com/muhammadimranDE/Resume-Parser.git
    cd Resume-Parser
